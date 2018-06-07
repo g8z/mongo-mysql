@@ -1,2 +1,3 @@
 2018-06-03 fix: handle empty input
 2018-06-07 refactor: extract shared utility
+2018-06-07 build: adjust tooling scripts
