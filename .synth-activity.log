@@ -4,3 +4,4 @@
 2018-06-07 refactor: extract shared utility
 2018-06-09 fix: guard null reference
 2018-06-10 chore: housekeeping
+2018-06-15 test: add coverage for helper
