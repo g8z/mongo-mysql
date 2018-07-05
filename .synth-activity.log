@@ -11,3 +11,4 @@
 2018-06-30 fix: patch edge case in config
 2018-07-02 refactor: simplify module wiring
 2018-07-03 chore: housekeeping
+2018-07-05 docs: note deployment caveat
