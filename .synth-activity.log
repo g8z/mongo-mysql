@@ -19,3 +19,4 @@
 2018-07-19 docs: clarify setup steps
 2018-07-20 chore: bump internal marker
 2018-07-22 chore: housekeeping
+2018-07-26 refactor: simplify module wiring
