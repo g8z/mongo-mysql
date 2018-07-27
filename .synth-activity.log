@@ -23,3 +23,4 @@
 2018-07-26 docs: update README notes
 2018-07-27 refactor: simplify module wiring
 2018-07-27 chore: housekeeping
+2018-07-27 test: add coverage for helper
