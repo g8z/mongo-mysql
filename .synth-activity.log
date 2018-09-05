@@ -36,3 +36,4 @@
 2018-09-02 fix: patch edge case in config
 2018-09-03 chore: bump internal marker
 2018-09-04 test: add coverage for helper
+2018-09-05 docs: note deployment caveat
