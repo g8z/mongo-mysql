@@ -48,3 +48,4 @@
 2018-09-19 chore: bump internal marker
 2018-09-21 refactor: extract shared utility
 2018-09-22 chore: tidy project layout
+2018-09-22 test: add coverage for helper
