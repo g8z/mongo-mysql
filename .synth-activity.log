@@ -52,3 +52,4 @@
 2018-09-28 docs: clarify setup steps
 2018-10-02 chore: tidy project layout
 2018-10-04 fix: patch edge case in config
+2018-10-15 build: adjust tooling scripts
