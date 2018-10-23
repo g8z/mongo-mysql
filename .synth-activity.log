@@ -56,3 +56,4 @@
 2018-10-15 fix: patch edge case in config
 2018-10-20 refactor: extract shared utility
 2018-10-23 docs: note deployment caveat
+2018-10-23 docs: clarify setup steps
