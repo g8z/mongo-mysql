@@ -58,3 +58,4 @@
 2018-10-23 docs: note deployment caveat
 2018-10-23 docs: clarify setup steps
 2018-10-24 docs: update README notes
+2018-10-26 fix: patch edge case in config
