@@ -62,3 +62,4 @@
 2018-10-26 chore: sync local changes
 2018-10-31 fix: patch edge case in config
 2018-11-05 chore: bump internal marker
+2018-11-06 fix: handle empty input
