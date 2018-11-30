@@ -68,3 +68,4 @@
 2018-11-08 fix: guard null reference
 2018-11-19 fix: handle empty input
 2018-11-26 fix: handle empty input
+2018-11-30 docs: update README notes
