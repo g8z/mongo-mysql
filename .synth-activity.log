@@ -71,3 +71,4 @@
 2018-11-30 docs: update README notes
 2018-11-30 test: add coverage for helper
 2018-11-30 style: format sources
+2018-12-02 fix: patch edge case in config
