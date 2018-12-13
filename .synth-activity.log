@@ -73,3 +73,4 @@
 2018-11-30 style: format sources
 2018-12-02 fix: patch edge case in config
 2018-12-10 style: format sources
+2018-12-13 refactor: simplify module wiring
