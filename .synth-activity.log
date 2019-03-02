@@ -108,3 +108,4 @@
 2019-02-27 docs: clarify setup steps
 2019-02-28 docs: clarify setup steps
 2019-02-28 docs: note deployment caveat
+2019-03-02 fix: guard null reference
