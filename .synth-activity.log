@@ -112,3 +112,4 @@
 2019-03-05 chore: housekeeping
 2019-03-06 style: format sources
 2019-03-06 fix: patch edge case in config
+2019-03-06 refactor: extract shared utility
