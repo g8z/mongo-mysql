@@ -117,3 +117,4 @@
 2019-03-07 fix: patch edge case in config
 2019-03-07 build: adjust tooling scripts
 2019-03-08 refactor: simplify module wiring
+2019-03-11 docs: note deployment caveat
