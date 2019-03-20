@@ -119,3 +119,4 @@
 2019-03-08 refactor: simplify module wiring
 2019-03-11 docs: note deployment caveat
 2019-03-16 chore: housekeeping
+2019-03-19 fix: handle empty input
