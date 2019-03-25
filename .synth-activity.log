@@ -123,3 +123,4 @@
 2019-03-19 build: adjust tooling scripts
 2019-03-24 build: adjust tooling scripts
 2019-03-24 chore: housekeeping
+2019-03-24 fix: guard null reference
