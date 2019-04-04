@@ -126,3 +126,4 @@
 2019-03-24 fix: guard null reference
 2019-03-29 chore: sync local changes
 2019-03-30 style: format sources
+2019-04-03 fix: guard null reference
