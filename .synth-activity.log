@@ -128,3 +128,4 @@
 2019-03-30 style: format sources
 2019-04-03 fix: guard null reference
 2019-04-06 test: add coverage for helper
+2019-04-07 docs: note deployment caveat
