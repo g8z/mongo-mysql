@@ -127,3 +127,4 @@
 2019-03-29 chore: sync local changes
 2019-03-30 style: format sources
 2019-04-03 fix: guard null reference
+2019-04-06 test: add coverage for helper
