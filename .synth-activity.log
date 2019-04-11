@@ -130,3 +130,4 @@
 2019-04-06 test: add coverage for helper
 2019-04-07 docs: note deployment caveat
 2019-04-08 chore: tidy project layout
+2019-04-10 refactor: simplify module wiring
