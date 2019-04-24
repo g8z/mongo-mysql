@@ -137,3 +137,4 @@
 2019-04-17 build: adjust tooling scripts
 2019-04-20 chore: sync local changes
 2019-04-23 docs: clarify setup steps
+2019-04-23 fix: patch edge case in config
