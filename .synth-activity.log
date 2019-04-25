@@ -139,3 +139,4 @@
 2019-04-23 docs: clarify setup steps
 2019-04-23 fix: patch edge case in config
 2019-04-24 docs: note deployment caveat
+2019-04-25 fix: guard null reference
