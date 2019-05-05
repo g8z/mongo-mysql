@@ -144,3 +144,4 @@
 2019-05-01 docs: clarify setup steps
 2019-05-03 docs: note deployment caveat
 2019-05-05 chore: housekeeping
+2019-05-05 fix: patch edge case in config
