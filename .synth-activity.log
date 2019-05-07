@@ -145,3 +145,4 @@
 2019-05-03 docs: note deployment caveat
 2019-05-05 chore: housekeeping
 2019-05-05 fix: patch edge case in config
+2019-05-06 style: format sources
