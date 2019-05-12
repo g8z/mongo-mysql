@@ -150,3 +150,4 @@
 2019-05-10 chore: tidy project layout
 2019-05-10 test: add coverage for helper
 2019-05-11 build: adjust tooling scripts
+2019-05-12 fix: guard null reference
