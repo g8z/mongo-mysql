@@ -151,3 +151,4 @@
 2019-05-10 test: add coverage for helper
 2019-05-11 build: adjust tooling scripts
 2019-05-12 fix: guard null reference
+2019-05-12 fix: patch edge case in config
