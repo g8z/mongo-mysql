@@ -154,3 +154,4 @@
 2019-05-12 fix: patch edge case in config
 2019-05-12 fix: patch edge case in config
 2019-05-14 docs: note deployment caveat
+2019-05-15 build: adjust tooling scripts
