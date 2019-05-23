@@ -158,3 +158,4 @@
 2019-05-19 docs: note deployment caveat
 2019-05-22 refactor: simplify module wiring
 2019-05-23 docs: update README notes
+2019-05-23 refactor: extract shared utility
