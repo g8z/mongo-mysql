@@ -165,3 +165,4 @@
 2019-06-08 chore: sync local changes
 2019-06-10 style: format sources
 2019-06-12 docs: update README notes
+2019-06-13 fix: handle empty input
