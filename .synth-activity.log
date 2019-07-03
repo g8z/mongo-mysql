@@ -170,3 +170,4 @@
 2019-06-29 test: add coverage for helper
 2019-07-01 refactor: simplify module wiring
 2019-07-02 style: format sources
+2019-07-02 refactor: extract shared utility
