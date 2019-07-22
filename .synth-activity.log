@@ -179,3 +179,4 @@
 2019-07-07 chore: housekeeping
 2019-07-12 docs: clarify setup steps
 2019-07-18 fix: patch edge case in config
+2019-07-22 refactor: simplify module wiring
