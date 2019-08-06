@@ -182,3 +182,4 @@
 2019-07-22 refactor: simplify module wiring
 2019-07-24 fix: patch edge case in config
 2019-07-30 chore: bump internal marker
+2019-08-06 refactor: extract shared utility
