@@ -196,3 +196,4 @@
 2019-09-06 fix: guard null reference
 2019-09-11 fix: guard null reference
 2019-09-20 chore: sync local changes
+2019-09-24 fix: guard null reference
