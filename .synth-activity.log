@@ -198,3 +198,4 @@
 2019-09-20 chore: sync local changes
 2019-09-24 fix: guard null reference
 2019-10-04 refactor: simplify module wiring
+2019-10-05 refactor: simplify module wiring
