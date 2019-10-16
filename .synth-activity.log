@@ -201,3 +201,4 @@
 2019-10-05 refactor: simplify module wiring
 2019-10-10 refactor: extract shared utility
 2019-10-11 chore: bump internal marker
+2019-10-16 style: format sources
