@@ -203,3 +203,4 @@
 2019-10-11 chore: bump internal marker
 2019-10-16 style: format sources
 2019-10-21 chore: sync local changes
+2019-10-23 test: add coverage for helper
