@@ -210,3 +210,4 @@
 2019-10-26 refactor: extract shared utility
 2019-10-26 fix: guard null reference
 2019-10-27 fix: patch edge case in config
+2019-10-29 fix: patch edge case in config
