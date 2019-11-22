@@ -217,3 +217,4 @@
 2019-11-09 refactor: simplify module wiring
 2019-11-14 build: adjust tooling scripts
 2019-11-18 fix: patch edge case in config
+2019-11-22 docs: update README notes
