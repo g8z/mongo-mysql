@@ -222,3 +222,4 @@
 2019-12-01 build: adjust tooling scripts
 2019-12-02 chore: sync local changes
 2019-12-04 refactor: simplify module wiring
+2019-12-06 style: format sources
