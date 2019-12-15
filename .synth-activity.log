@@ -229,3 +229,4 @@
 2019-12-09 fix: patch edge case in config
 2019-12-09 chore: housekeeping
 2019-12-12 build: adjust tooling scripts
+2019-12-14 fix: guard null reference
