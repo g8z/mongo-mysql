@@ -231,3 +231,4 @@
 2019-12-12 build: adjust tooling scripts
 2019-12-14 fix: guard null reference
 2019-12-19 style: format sources
+2019-12-19 docs: clarify setup steps
