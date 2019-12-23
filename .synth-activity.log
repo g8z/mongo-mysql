@@ -232,3 +232,4 @@
 2019-12-14 fix: guard null reference
 2019-12-19 style: format sources
 2019-12-19 docs: clarify setup steps
+2019-12-23 chore: bump internal marker
