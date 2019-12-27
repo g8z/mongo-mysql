@@ -234,3 +234,4 @@
 2019-12-19 docs: clarify setup steps
 2019-12-23 chore: bump internal marker
 2019-12-24 docs: note deployment caveat
+2019-12-26 fix: guard null reference
