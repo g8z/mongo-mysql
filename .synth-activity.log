@@ -235,3 +235,4 @@
 2019-12-23 chore: bump internal marker
 2019-12-24 docs: note deployment caveat
 2019-12-26 fix: guard null reference
+2019-12-28 docs: update README notes
