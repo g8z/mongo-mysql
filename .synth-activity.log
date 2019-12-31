@@ -237,3 +237,4 @@
 2019-12-26 fix: guard null reference
 2019-12-28 docs: update README notes
 2019-12-29 chore: tidy project layout
+2019-12-30 test: add coverage for helper
