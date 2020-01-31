@@ -256,3 +256,4 @@
 2020-01-26 docs: update README notes
 2020-01-28 chore: housekeeping
 2020-01-29 docs: update README notes
+2020-01-30 fix: patch edge case in config
