@@ -263,3 +263,4 @@
 2020-02-06 fix: handle empty input
 2020-02-07 chore: bump internal marker
 2020-02-08 fix: handle empty input
+2020-02-12 refactor: extract shared utility
