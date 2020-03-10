@@ -276,3 +276,4 @@
 2020-02-29 docs: clarify setup steps
 2020-03-03 build: adjust tooling scripts
 2020-03-09 fix: patch edge case in config
+2020-03-10 fix: patch edge case in config
