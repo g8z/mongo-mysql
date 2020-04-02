@@ -284,3 +284,4 @@
 2020-03-20 chore: bump internal marker
 2020-03-21 fix: handle empty input
 2020-03-27 chore: sync local changes
+2020-04-01 test: add coverage for helper
