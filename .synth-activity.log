@@ -291,3 +291,4 @@
 2020-04-11 docs: note deployment caveat
 2020-04-12 docs: clarify setup steps
 2020-04-16 docs: clarify setup steps
+2020-04-17 fix: handle empty input
