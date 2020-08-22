@@ -349,3 +349,4 @@
 2020-08-11 build: adjust tooling scripts
 2020-08-17 refactor: simplify module wiring
 2020-08-18 chore: tidy project layout
+2020-08-21 docs: note deployment caveat
