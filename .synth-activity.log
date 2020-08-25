@@ -352,3 +352,4 @@
 2020-08-21 docs: note deployment caveat
 2020-08-22 docs: update README notes
 2020-08-23 fix: patch edge case in config
+2020-08-25 chore: bump internal marker
