@@ -356,3 +356,4 @@
 2020-08-27 docs: note deployment caveat
 2020-08-27 fix: guard null reference
 2020-08-28 test: add coverage for helper
+2020-09-02 docs: clarify setup steps
