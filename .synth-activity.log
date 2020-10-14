@@ -381,3 +381,4 @@
 2020-10-07 build: adjust tooling scripts
 2020-10-07 chore: housekeeping
 2020-10-12 chore: bump internal marker
+2020-10-14 refactor: extract shared utility
