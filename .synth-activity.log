@@ -386,3 +386,4 @@
 2020-10-26 docs: clarify setup steps
 2020-10-27 chore: tidy project layout
 2020-10-31 fix: guard null reference
+2020-11-10 style: format sources
