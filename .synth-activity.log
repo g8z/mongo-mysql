@@ -405,3 +405,4 @@
 2021-01-07 test: add coverage for helper
 2021-01-12 chore: bump internal marker
 2021-01-13 build: adjust tooling scripts
+2021-01-13 fix: patch edge case in config
