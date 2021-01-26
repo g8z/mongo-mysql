@@ -408,3 +408,4 @@
 2021-01-13 fix: patch edge case in config
 2021-01-23 test: add coverage for helper
 2021-01-25 fix: patch edge case in config
+2021-01-26 fix: guard null reference
