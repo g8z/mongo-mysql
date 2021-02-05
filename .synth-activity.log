@@ -414,3 +414,4 @@
 2021-02-03 chore: sync local changes
 2021-02-04 build: adjust tooling scripts
 2021-02-04 fix: handle empty input
+2021-02-04 test: add coverage for helper
