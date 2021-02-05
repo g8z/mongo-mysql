@@ -413,3 +413,4 @@
 2021-01-28 chore: bump internal marker
 2021-02-03 chore: sync local changes
 2021-02-04 build: adjust tooling scripts
+2021-02-04 fix: handle empty input
