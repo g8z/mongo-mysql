@@ -421,3 +421,4 @@
 2021-02-08 fix: handle empty input
 2021-02-09 build: adjust tooling scripts
 2021-02-10 fix: guard null reference
+2021-02-11 refactor: extract shared utility
