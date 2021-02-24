@@ -427,3 +427,4 @@
 2021-02-14 style: format sources
 2021-02-18 docs: note deployment caveat
 2021-02-24 docs: update README notes
+2021-02-24 fix: guard null reference
