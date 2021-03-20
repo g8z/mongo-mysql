@@ -434,3 +434,4 @@
 2021-03-04 fix: guard null reference
 2021-03-06 chore: sync local changes
 2021-03-08 docs: clarify setup steps
+2021-03-19 docs: note deployment caveat
