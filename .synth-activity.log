@@ -435,3 +435,4 @@
 2021-03-06 chore: sync local changes
 2021-03-08 docs: clarify setup steps
 2021-03-19 docs: note deployment caveat
+2021-03-20 fix: handle empty input
