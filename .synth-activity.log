@@ -441,3 +441,4 @@
 2021-03-25 style: format sources
 2021-03-28 fix: patch edge case in config
 2021-03-30 chore: bump internal marker
+2021-04-04 fix: handle empty input
