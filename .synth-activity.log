@@ -452,3 +452,4 @@
 2021-04-11 docs: update README notes
 2021-04-11 chore: sync local changes
 2021-04-12 refactor: extract shared utility
+2021-04-12 test: add coverage for helper
