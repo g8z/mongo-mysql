@@ -459,3 +459,4 @@
 2021-04-16 style: format sources
 2021-04-17 refactor: simplify module wiring
 2021-04-26 refactor: extract shared utility
+2021-04-29 docs: clarify setup steps
