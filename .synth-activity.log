@@ -470,3 +470,4 @@
 2021-06-02 chore: bump internal marker
 2021-06-11 chore: tidy project layout
 2021-06-12 fix: patch edge case in config
+2021-06-16 refactor: extract shared utility
