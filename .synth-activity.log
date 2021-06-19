@@ -472,3 +472,4 @@
 2021-06-12 fix: patch edge case in config
 2021-06-16 refactor: extract shared utility
 2021-06-17 test: add coverage for helper
+2021-06-19 docs: update README notes
