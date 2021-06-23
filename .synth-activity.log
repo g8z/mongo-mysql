@@ -474,3 +474,4 @@
 2021-06-17 test: add coverage for helper
 2021-06-19 docs: update README notes
 2021-06-21 build: adjust tooling scripts
+2021-06-22 style: format sources
