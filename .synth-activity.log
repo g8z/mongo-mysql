@@ -483,3 +483,4 @@
 2021-07-06 docs: clarify setup steps
 2021-07-08 fix: patch edge case in config
 2021-07-09 fix: handle empty input
+2021-07-09 chore: sync local changes
