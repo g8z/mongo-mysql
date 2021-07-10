@@ -484,3 +484,4 @@
 2021-07-08 fix: patch edge case in config
 2021-07-09 fix: handle empty input
 2021-07-09 chore: sync local changes
+2021-07-10 fix: guard null reference
