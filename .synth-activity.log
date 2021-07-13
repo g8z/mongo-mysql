@@ -486,3 +486,4 @@
 2021-07-09 chore: sync local changes
 2021-07-10 fix: guard null reference
 2021-07-13 style: format sources
+2021-07-13 docs: clarify setup steps
