@@ -491,3 +491,4 @@
 2021-07-15 chore: bump internal marker
 2021-07-15 style: format sources
 2021-07-16 build: adjust tooling scripts
+2021-07-16 fix: guard null reference
