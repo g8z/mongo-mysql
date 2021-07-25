@@ -493,3 +493,4 @@
 2021-07-16 build: adjust tooling scripts
 2021-07-16 fix: guard null reference
 2021-07-23 chore: sync local changes
+2021-07-25 style: format sources
