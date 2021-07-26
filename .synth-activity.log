@@ -494,3 +494,4 @@
 2021-07-16 fix: guard null reference
 2021-07-23 chore: sync local changes
 2021-07-25 style: format sources
+2021-07-25 refactor: extract shared utility
