@@ -499,3 +499,4 @@
 2021-07-29 chore: tidy project layout
 2021-08-03 fix: handle empty input
 2021-08-05 fix: guard null reference
+2021-08-05 style: format sources
