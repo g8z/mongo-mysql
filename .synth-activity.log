@@ -498,3 +498,4 @@
 2021-07-26 docs: update README notes
 2021-07-29 chore: tidy project layout
 2021-08-03 fix: handle empty input
+2021-08-05 fix: guard null reference
