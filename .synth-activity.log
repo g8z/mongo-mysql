@@ -504,3 +504,4 @@
 2021-08-16 refactor: extract shared utility
 2021-08-16 chore: housekeeping
 2021-08-18 refactor: extract shared utility
+2021-08-21 fix: guard null reference
