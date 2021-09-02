@@ -508,3 +508,4 @@
 2021-08-21 fix: guard null reference
 2021-08-26 build: adjust tooling scripts
 2021-08-28 test: add coverage for helper
+2021-09-02 fix: guard null reference
