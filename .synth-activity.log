@@ -511,3 +511,4 @@
 2021-09-02 fix: guard null reference
 2021-09-04 fix: handle empty input
 2021-09-09 docs: update README notes
+2021-09-12 docs: clarify setup steps
