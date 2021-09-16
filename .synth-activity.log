@@ -514,3 +514,4 @@
 2021-09-12 docs: clarify setup steps
 2021-09-13 fix: handle empty input
 2021-09-14 fix: handle empty input
+2021-09-16 fix: patch edge case in config
