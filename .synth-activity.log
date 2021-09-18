@@ -517,3 +517,4 @@
 2021-09-16 fix: patch edge case in config
 2021-09-17 fix: patch edge case in config
 2021-09-18 test: add coverage for helper
+2021-09-18 fix: guard null reference
