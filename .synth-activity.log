@@ -520,3 +520,4 @@
 2021-09-18 fix: guard null reference
 2021-09-19 fix: handle empty input
 2021-09-21 refactor: extract shared utility
+2021-09-23 docs: update README notes
