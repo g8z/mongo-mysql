@@ -524,3 +524,4 @@
 2021-09-23 chore: tidy project layout
 2021-09-25 refactor: extract shared utility
 2021-09-25 chore: housekeeping
+2021-09-30 fix: patch edge case in config
