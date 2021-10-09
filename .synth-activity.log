@@ -527,3 +527,4 @@
 2021-09-30 fix: patch edge case in config
 2021-10-02 build: adjust tooling scripts
 2021-10-05 build: adjust tooling scripts
+2021-10-08 fix: guard null reference
