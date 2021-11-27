@@ -536,3 +536,4 @@
 2021-11-07 chore: sync local changes
 2021-11-09 fix: patch edge case in config
 2021-11-23 refactor: simplify module wiring
+2021-11-27 docs: note deployment caveat
