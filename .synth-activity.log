@@ -539,3 +539,4 @@
 2021-11-27 docs: note deployment caveat
 2021-11-29 fix: patch edge case in config
 2021-11-29 chore: tidy project layout
+2021-11-29 build: adjust tooling scripts
