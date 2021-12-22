@@ -542,3 +542,4 @@
 2021-11-29 build: adjust tooling scripts
 2021-12-06 docs: note deployment caveat
 2021-12-11 chore: tidy project layout
+2021-12-21 fix: handle empty input
