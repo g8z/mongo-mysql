@@ -551,3 +551,4 @@
 2022-01-01 docs: clarify setup steps
 2022-01-01 docs: note deployment caveat
 2022-01-04 chore: housekeeping
+2022-01-05 fix: patch edge case in config
