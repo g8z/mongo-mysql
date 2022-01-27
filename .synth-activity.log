@@ -562,3 +562,4 @@
 2022-01-26 refactor: simplify module wiring
 2022-01-26 docs: clarify setup steps
 2022-01-26 docs: note deployment caveat
+2022-01-26 build: adjust tooling scripts
