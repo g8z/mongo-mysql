@@ -569,3 +569,4 @@
 2022-02-08 test: add coverage for helper
 2022-02-09 chore: housekeeping
 2022-02-09 style: format sources
+2022-02-10 fix: handle empty input
