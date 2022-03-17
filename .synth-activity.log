@@ -582,3 +582,4 @@
 2022-02-28 chore: bump internal marker
 2022-03-02 refactor: extract shared utility
 2022-03-02 docs: update README notes
+2022-03-17 fix: patch edge case in config
