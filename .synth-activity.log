@@ -586,3 +586,4 @@
 2022-03-19 docs: note deployment caveat
 2022-03-26 build: adjust tooling scripts
 2022-03-26 chore: tidy project layout
+2022-04-03 test: add coverage for helper
