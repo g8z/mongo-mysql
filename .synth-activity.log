@@ -591,3 +591,4 @@
 2022-04-11 docs: clarify setup steps
 2022-04-11 chore: tidy project layout
 2022-04-12 fix: patch edge case in config
+2022-04-12 chore: bump internal marker
