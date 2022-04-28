@@ -600,3 +600,4 @@
 2022-04-23 chore: bump internal marker
 2022-04-23 style: format sources
 2022-04-27 build: adjust tooling scripts
+2022-04-28 refactor: extract shared utility
