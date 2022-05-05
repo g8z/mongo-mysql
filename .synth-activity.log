@@ -604,3 +604,4 @@
 2022-04-29 build: adjust tooling scripts
 2022-05-02 fix: guard null reference
 2022-05-03 refactor: extract shared utility
+2022-05-05 test: add coverage for helper
