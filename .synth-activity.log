@@ -609,3 +609,4 @@
 2022-05-08 test: add coverage for helper
 2022-05-09 build: adjust tooling scripts
 2022-05-10 fix: handle empty input
+2022-05-10 fix: guard null reference
