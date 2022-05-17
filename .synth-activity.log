@@ -613,3 +613,4 @@
 2022-05-13 chore: bump internal marker
 2022-05-14 docs: clarify setup steps
 2022-05-15 chore: sync local changes
+2022-05-16 test: add coverage for helper
