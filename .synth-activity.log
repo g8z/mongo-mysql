@@ -615,3 +615,4 @@
 2022-05-15 chore: sync local changes
 2022-05-16 test: add coverage for helper
 2022-05-22 fix: patch edge case in config
+2022-05-23 docs: note deployment caveat
