@@ -620,3 +620,4 @@
 2022-05-29 chore: sync local changes
 2022-05-29 fix: guard null reference
 2022-05-30 refactor: simplify module wiring
+2022-06-04 docs: update README notes
