@@ -628,3 +628,4 @@
 2022-06-19 chore: tidy project layout
 2022-06-29 fix: handle empty input
 2022-07-01 fix: patch edge case in config
+2022-07-04 fix: guard null reference
