@@ -653,3 +653,4 @@
 2022-08-14 fix: patch edge case in config
 2022-08-19 refactor: extract shared utility
 2022-08-24 refactor: extract shared utility
+2022-08-24 fix: guard null reference
