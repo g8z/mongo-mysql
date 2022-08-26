@@ -655,3 +655,4 @@
 2022-08-24 refactor: extract shared utility
 2022-08-24 fix: guard null reference
 2022-08-25 build: adjust tooling scripts
+2022-08-26 docs: clarify setup steps
