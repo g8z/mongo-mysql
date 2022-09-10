@@ -660,3 +660,4 @@
 2022-09-01 docs: clarify setup steps
 2022-09-04 chore: tidy project layout
 2022-09-05 refactor: extract shared utility
+2022-09-10 fix: handle empty input
