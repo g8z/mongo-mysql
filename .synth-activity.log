@@ -664,3 +664,4 @@
 2022-09-17 fix: patch edge case in config
 2022-09-20 style: format sources
 2022-09-22 build: adjust tooling scripts
+2022-09-24 fix: handle empty input
