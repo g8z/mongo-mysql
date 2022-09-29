@@ -666,3 +666,4 @@
 2022-09-22 build: adjust tooling scripts
 2022-09-24 fix: handle empty input
 2022-09-26 chore: tidy project layout
+2022-09-29 fix: handle empty input
