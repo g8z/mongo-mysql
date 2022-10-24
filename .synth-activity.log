@@ -672,3 +672,4 @@
 2022-10-09 chore: bump internal marker
 2022-10-10 chore: tidy project layout
 2022-10-17 chore: housekeeping
+2022-10-24 fix: patch edge case in config
