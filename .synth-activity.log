@@ -676,3 +676,4 @@
 2022-10-25 chore: bump internal marker
 2022-10-25 chore: sync local changes
 2022-11-01 test: add coverage for helper
+2022-11-01 fix: guard null reference
