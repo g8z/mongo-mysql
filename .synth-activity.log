@@ -680,3 +680,4 @@
 2022-11-04 docs: clarify setup steps
 2022-11-05 style: format sources
 2022-11-08 refactor: extract shared utility
+2022-11-09 refactor: simplify module wiring
