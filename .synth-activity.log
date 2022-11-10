@@ -684,3 +684,4 @@
 2022-11-09 docs: update README notes
 2022-11-09 docs: note deployment caveat
 2022-11-10 chore: tidy project layout
+2022-11-10 fix: patch edge case in config
