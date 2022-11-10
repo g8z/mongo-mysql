@@ -682,3 +682,4 @@
 2022-11-08 refactor: extract shared utility
 2022-11-09 refactor: simplify module wiring
 2022-11-09 docs: update README notes
+2022-11-09 docs: note deployment caveat
