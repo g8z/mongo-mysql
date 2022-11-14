@@ -688,3 +688,4 @@
 2022-11-11 build: adjust tooling scripts
 2022-11-13 build: adjust tooling scripts
 2022-11-13 chore: housekeeping
+2022-11-14 fix: guard null reference
