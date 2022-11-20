@@ -690,3 +690,4 @@
 2022-11-13 chore: housekeeping
 2022-11-14 fix: guard null reference
 2022-11-14 chore: tidy project layout
+2022-11-20 fix: handle empty input
