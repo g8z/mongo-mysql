@@ -692,3 +692,4 @@
 2022-11-14 chore: tidy project layout
 2022-11-20 fix: handle empty input
 2022-11-21 chore: housekeeping
+2022-11-25 refactor: simplify module wiring
