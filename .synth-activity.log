@@ -701,3 +701,4 @@
 2022-12-30 fix: guard null reference
 2022-12-31 chore: tidy project layout
 2023-01-08 chore: sync local changes
+2023-01-09 style: format sources
