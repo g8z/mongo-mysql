@@ -702,3 +702,4 @@
 2022-12-31 chore: tidy project layout
 2023-01-08 chore: sync local changes
 2023-01-09 style: format sources
+2023-01-11 refactor: simplify module wiring
