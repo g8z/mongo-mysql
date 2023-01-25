@@ -710,3 +710,4 @@
 2023-01-18 chore: tidy project layout
 2023-01-23 build: adjust tooling scripts
 2023-01-25 test: add coverage for helper
+2023-01-25 docs: note deployment caveat
