@@ -732,3 +732,4 @@
 2023-04-03 refactor: simplify module wiring
 2023-04-04 fix: guard null reference
 2023-04-07 chore: sync local changes
+2023-04-10 test: add coverage for helper
