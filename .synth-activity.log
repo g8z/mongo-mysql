@@ -735,3 +735,4 @@
 2023-04-10 test: add coverage for helper
 2023-04-11 docs: note deployment caveat
 2023-04-15 build: adjust tooling scripts
+2023-04-19 fix: guard null reference
