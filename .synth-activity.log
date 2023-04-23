@@ -738,3 +738,4 @@
 2023-04-19 fix: guard null reference
 2023-04-20 style: format sources
 2023-04-21 chore: sync local changes
+2023-04-23 fix: guard null reference
