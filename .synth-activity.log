@@ -750,3 +750,4 @@
 2023-05-22 refactor: extract shared utility
 2023-05-23 refactor: simplify module wiring
 2023-05-28 chore: bump internal marker
+2023-06-01 fix: guard null reference
