@@ -751,3 +751,4 @@
 2023-05-23 refactor: simplify module wiring
 2023-05-28 chore: bump internal marker
 2023-06-01 fix: guard null reference
+2023-06-02 style: format sources
