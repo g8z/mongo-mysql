@@ -766,3 +766,4 @@
 2023-06-17 fix: guard null reference
 2023-06-17 fix: guard null reference
 2023-06-18 fix: guard null reference
+2023-06-21 refactor: extract shared utility
