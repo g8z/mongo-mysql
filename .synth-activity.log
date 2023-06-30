@@ -769,3 +769,4 @@
 2023-06-21 refactor: extract shared utility
 2023-06-22 style: format sources
 2023-06-27 docs: clarify setup steps
+2023-06-30 test: add coverage for helper
