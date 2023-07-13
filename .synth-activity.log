@@ -774,3 +774,4 @@
 2023-07-05 chore: tidy project layout
 2023-07-06 fix: patch edge case in config
 2023-07-08 chore: bump internal marker
+2023-07-13 test: add coverage for helper
