@@ -782,3 +782,4 @@
 2023-08-04 fix: patch edge case in config
 2023-08-06 chore: sync local changes
 2023-08-06 build: adjust tooling scripts
+2023-08-11 fix: guard null reference
