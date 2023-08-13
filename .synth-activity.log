@@ -783,3 +783,4 @@
 2023-08-06 chore: sync local changes
 2023-08-06 build: adjust tooling scripts
 2023-08-11 fix: guard null reference
+2023-08-13 docs: note deployment caveat
