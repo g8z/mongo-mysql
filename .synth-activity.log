@@ -785,3 +785,4 @@
 2023-08-11 fix: guard null reference
 2023-08-13 docs: note deployment caveat
 2023-08-14 docs: clarify setup steps
+2023-08-16 build: adjust tooling scripts
