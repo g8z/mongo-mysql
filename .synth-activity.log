@@ -791,3 +791,4 @@
 2023-08-26 chore: housekeeping
 2023-08-30 docs: clarify setup steps
 2023-08-30 fix: handle empty input
+2023-09-03 fix: patch edge case in config
