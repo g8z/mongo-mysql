@@ -794,3 +794,4 @@
 2023-09-03 fix: patch edge case in config
 2023-09-03 chore: sync local changes
 2023-09-06 chore: bump internal marker
+2023-09-09 build: adjust tooling scripts
