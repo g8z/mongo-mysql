@@ -799,3 +799,4 @@
 2023-09-15 build: adjust tooling scripts
 2023-09-15 fix: handle empty input
 2023-09-16 docs: clarify setup steps
+2023-09-16 style: format sources
