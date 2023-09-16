@@ -797,3 +797,4 @@
 2023-09-09 build: adjust tooling scripts
 2023-09-10 fix: patch edge case in config
 2023-09-15 build: adjust tooling scripts
+2023-09-15 fix: handle empty input
