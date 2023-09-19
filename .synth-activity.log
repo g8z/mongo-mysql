@@ -801,3 +801,4 @@
 2023-09-16 docs: clarify setup steps
 2023-09-16 style: format sources
 2023-09-18 docs: clarify setup steps
+2023-09-18 test: add coverage for helper
