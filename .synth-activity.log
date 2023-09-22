@@ -803,3 +803,4 @@
 2023-09-18 docs: clarify setup steps
 2023-09-18 test: add coverage for helper
 2023-09-21 refactor: simplify module wiring
+2023-09-22 style: format sources
