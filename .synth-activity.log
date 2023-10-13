@@ -810,3 +810,4 @@
 2023-10-04 fix: patch edge case in config
 2023-10-06 docs: update README notes
 2023-10-08 build: adjust tooling scripts
+2023-10-13 refactor: extract shared utility
