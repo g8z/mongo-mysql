@@ -811,3 +811,4 @@
 2023-10-06 docs: update README notes
 2023-10-08 build: adjust tooling scripts
 2023-10-13 refactor: extract shared utility
+2023-10-16 refactor: simplify module wiring
