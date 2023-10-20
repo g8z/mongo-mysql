@@ -812,3 +812,4 @@
 2023-10-08 build: adjust tooling scripts
 2023-10-13 refactor: extract shared utility
 2023-10-16 refactor: simplify module wiring
+2023-10-20 refactor: simplify module wiring
