@@ -814,3 +814,4 @@
 2023-10-16 refactor: simplify module wiring
 2023-10-20 refactor: simplify module wiring
 2023-10-22 fix: guard null reference
+2023-10-22 fix: handle empty input
