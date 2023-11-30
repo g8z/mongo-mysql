@@ -826,3 +826,4 @@
 2023-11-24 refactor: simplify module wiring
 2023-11-27 build: adjust tooling scripts
 2023-11-27 test: add coverage for helper
+2023-11-30 docs: clarify setup steps
