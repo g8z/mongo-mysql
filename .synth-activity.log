@@ -840,3 +840,4 @@
 2023-12-09 style: format sources
 2023-12-11 chore: bump internal marker
 2023-12-11 fix: patch edge case in config
+2023-12-17 docs: clarify setup steps
