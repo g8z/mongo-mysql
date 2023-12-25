@@ -843,3 +843,4 @@
 2023-12-17 docs: clarify setup steps
 2023-12-20 docs: note deployment caveat
 2023-12-22 chore: tidy project layout
+2023-12-25 fix: patch edge case in config
