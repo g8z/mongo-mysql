@@ -845,3 +845,4 @@
 2023-12-22 chore: tidy project layout
 2023-12-25 fix: patch edge case in config
 2024-01-01 refactor: extract shared utility
+2024-01-12 fix: handle empty input
