@@ -847,3 +847,4 @@
 2024-01-01 refactor: extract shared utility
 2024-01-12 fix: handle empty input
 2024-01-14 docs: update README notes
+2024-01-21 fix: patch edge case in config
