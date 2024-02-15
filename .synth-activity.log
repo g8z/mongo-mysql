@@ -853,3 +853,4 @@
 2024-02-03 fix: patch edge case in config
 2024-02-09 docs: update README notes
 2024-02-15 fix: patch edge case in config
+2024-02-15 fix: guard null reference
