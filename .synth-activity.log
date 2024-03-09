@@ -860,3 +860,4 @@
 2024-02-28 refactor: simplify module wiring
 2024-03-03 fix: patch edge case in config
 2024-03-04 fix: guard null reference
+2024-03-08 chore: bump internal marker
