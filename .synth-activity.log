@@ -872,3 +872,4 @@
 2024-03-19 fix: guard null reference
 2024-03-19 docs: note deployment caveat
 2024-03-20 build: adjust tooling scripts
+2024-03-21 chore: tidy project layout
