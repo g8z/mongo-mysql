@@ -878,3 +878,4 @@
 2024-03-25 docs: clarify setup steps
 2024-03-26 fix: guard null reference
 2024-03-30 style: format sources
+2024-04-09 refactor: simplify module wiring
