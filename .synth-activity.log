@@ -883,3 +883,4 @@
 2024-04-17 chore: sync local changes
 2024-04-21 chore: housekeeping
 2024-04-24 build: adjust tooling scripts
+2024-04-28 refactor: simplify module wiring
