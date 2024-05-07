@@ -891,3 +891,4 @@
 2024-05-05 chore: bump internal marker
 2024-05-05 chore: sync local changes
 2024-05-06 fix: handle empty input
+2024-05-07 refactor: simplify module wiring
