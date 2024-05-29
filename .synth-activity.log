@@ -900,3 +900,4 @@
 2024-05-26 docs: update README notes
 2024-05-26 refactor: extract shared utility
 2024-05-28 refactor: extract shared utility
+2024-05-29 refactor: simplify module wiring
