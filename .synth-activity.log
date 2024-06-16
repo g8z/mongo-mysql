@@ -906,3 +906,4 @@
 2024-06-03 chore: bump internal marker
 2024-06-09 style: format sources
 2024-06-15 docs: update README notes
+2024-06-16 fix: patch edge case in config
