@@ -909,3 +909,4 @@
 2024-06-16 fix: patch edge case in config
 2024-06-22 docs: note deployment caveat
 2024-06-22 fix: guard null reference
+2024-06-24 style: format sources
