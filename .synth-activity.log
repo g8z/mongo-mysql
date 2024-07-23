@@ -920,3 +920,4 @@
 2024-07-19 docs: clarify setup steps
 2024-07-20 build: adjust tooling scripts
 2024-07-20 fix: guard null reference
+2024-07-23 fix: patch edge case in config
