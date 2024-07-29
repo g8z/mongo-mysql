@@ -922,3 +922,4 @@
 2024-07-20 fix: guard null reference
 2024-07-23 fix: patch edge case in config
 2024-07-27 chore: sync local changes
+2024-07-29 style: format sources
