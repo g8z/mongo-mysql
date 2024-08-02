@@ -925,3 +925,4 @@
 2024-07-29 style: format sources
 2024-07-29 refactor: simplify module wiring
 2024-07-31 docs: clarify setup steps
+2024-08-01 fix: guard null reference
