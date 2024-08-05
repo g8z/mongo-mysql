@@ -927,3 +927,4 @@
 2024-07-31 docs: clarify setup steps
 2024-08-01 fix: guard null reference
 2024-08-03 docs: update README notes
+2024-08-05 fix: guard null reference
