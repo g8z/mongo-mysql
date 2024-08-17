@@ -934,3 +934,4 @@
 2024-08-12 style: format sources
 2024-08-13 chore: bump internal marker
 2024-08-17 refactor: simplify module wiring
+2024-08-17 docs: note deployment caveat
