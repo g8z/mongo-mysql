@@ -953,3 +953,4 @@
 2024-10-04 fix: guard null reference
 2024-10-05 build: adjust tooling scripts
 2024-10-08 refactor: simplify module wiring
+2024-10-09 style: format sources
