@@ -957,3 +957,4 @@
 2024-10-11 fix: handle empty input
 2024-10-11 style: format sources
 2024-10-19 refactor: simplify module wiring
+2024-10-23 docs: clarify setup steps
