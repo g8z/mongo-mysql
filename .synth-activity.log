@@ -966,3 +966,4 @@
 2024-11-14 fix: guard null reference
 2024-11-15 chore: sync local changes
 2024-11-21 chore: tidy project layout
+2024-11-25 docs: note deployment caveat
