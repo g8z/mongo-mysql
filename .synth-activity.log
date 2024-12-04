@@ -968,3 +968,4 @@
 2024-11-21 chore: tidy project layout
 2024-11-25 docs: note deployment caveat
 2024-11-28 refactor: simplify module wiring
+2024-12-04 style: format sources
