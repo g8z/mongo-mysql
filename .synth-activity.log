@@ -977,3 +977,4 @@
 2025-01-11 chore: bump internal marker
 2025-01-12 chore: bump internal marker
 2025-01-13 style: format sources
+2025-01-14 fix: handle empty input
