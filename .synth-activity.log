@@ -982,3 +982,4 @@
 2025-01-23 fix: handle empty input
 2025-01-23 docs: update README notes
 2025-01-24 fix: guard null reference
+2025-01-25 refactor: simplify module wiring
