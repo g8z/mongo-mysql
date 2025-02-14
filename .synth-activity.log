@@ -995,3 +995,4 @@
 2025-02-09 docs: update README notes
 2025-02-11 build: adjust tooling scripts
 2025-02-11 fix: handle empty input
+2025-02-14 fix: guard null reference
