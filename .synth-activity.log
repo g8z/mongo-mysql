@@ -997,3 +997,4 @@
 2025-02-11 fix: handle empty input
 2025-02-14 fix: guard null reference
 2025-02-15 chore: bump internal marker
+2025-02-18 docs: note deployment caveat
