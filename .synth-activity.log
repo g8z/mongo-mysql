@@ -1006,3 +1006,4 @@
 2025-03-02 build: adjust tooling scripts
 2025-03-05 chore: bump internal marker
 2025-03-07 refactor: simplify module wiring
+2025-03-09 docs: note deployment caveat
