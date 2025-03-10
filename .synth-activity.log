@@ -1008,3 +1008,4 @@
 2025-03-07 refactor: simplify module wiring
 2025-03-09 docs: note deployment caveat
 2025-03-09 build: adjust tooling scripts
+2025-03-10 test: add coverage for helper
