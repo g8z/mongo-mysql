@@ -1012,3 +1012,4 @@
 2025-03-11 refactor: simplify module wiring
 2025-03-12 test: add coverage for helper
 2025-03-16 chore: housekeeping
+2025-03-18 docs: note deployment caveat
