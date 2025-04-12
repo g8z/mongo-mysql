@@ -1025,3 +1025,4 @@
 2025-04-07 chore: housekeeping
 2025-04-08 refactor: extract shared utility
 2025-04-09 chore: bump internal marker
+2025-04-12 fix: patch edge case in config
