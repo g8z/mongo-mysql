@@ -1030,3 +1030,4 @@
 2025-04-27 docs: clarify setup steps
 2025-05-01 chore: tidy project layout
 2025-05-02 docs: update README notes
+2025-05-06 fix: guard null reference
