@@ -1033,3 +1033,4 @@
 2025-05-06 fix: guard null reference
 2025-05-06 chore: housekeeping
 2025-05-09 docs: note deployment caveat
+2025-05-11 chore: bump internal marker
