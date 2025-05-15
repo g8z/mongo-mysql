@@ -1034,3 +1034,4 @@
 2025-05-06 chore: housekeeping
 2025-05-09 docs: note deployment caveat
 2025-05-11 chore: bump internal marker
+2025-05-15 fix: patch edge case in config
