@@ -1041,3 +1041,4 @@
 2025-05-18 refactor: simplify module wiring
 2025-05-21 fix: handle empty input
 2025-05-24 style: format sources
+2025-05-29 build: adjust tooling scripts
