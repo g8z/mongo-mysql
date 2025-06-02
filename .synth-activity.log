@@ -1043,3 +1043,4 @@
 2025-05-24 style: format sources
 2025-05-29 build: adjust tooling scripts
 2025-05-30 test: add coverage for helper
+2025-06-01 chore: bump internal marker
