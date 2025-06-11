@@ -1048,3 +1048,4 @@
 2025-06-09 test: add coverage for helper
 2025-06-10 refactor: simplify module wiring
 2025-06-10 build: adjust tooling scripts
+2025-06-11 docs: note deployment caveat
