@@ -1051,3 +1051,4 @@
 2025-06-11 docs: note deployment caveat
 2025-06-13 fix: patch edge case in config
 2025-06-17 refactor: extract shared utility
+2025-07-04 chore: bump internal marker
