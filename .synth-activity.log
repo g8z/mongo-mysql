@@ -1055,3 +1055,4 @@
 2025-07-06 fix: handle empty input
 2025-07-10 test: add coverage for helper
 2025-07-11 refactor: simplify module wiring
+2025-07-11 fix: patch edge case in config
