@@ -1058,3 +1058,4 @@
 2025-07-11 fix: patch edge case in config
 2025-07-13 docs: clarify setup steps
 2025-07-14 docs: note deployment caveat
+2025-07-14 refactor: extract shared utility
