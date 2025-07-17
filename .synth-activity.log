@@ -1060,3 +1060,4 @@
 2025-07-14 docs: note deployment caveat
 2025-07-14 refactor: extract shared utility
 2025-07-15 fix: handle empty input
+2025-07-17 refactor: extract shared utility
