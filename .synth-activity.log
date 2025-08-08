@@ -1070,3 +1070,4 @@
 2025-07-26 docs: note deployment caveat
 2025-07-28 chore: bump internal marker
 2025-08-01 chore: sync local changes
+2025-08-07 fix: guard null reference
