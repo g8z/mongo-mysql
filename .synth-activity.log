@@ -1072,3 +1072,4 @@
 2025-08-01 chore: sync local changes
 2025-08-07 fix: guard null reference
 2025-08-08 refactor: simplify module wiring
+2025-08-12 fix: handle empty input
