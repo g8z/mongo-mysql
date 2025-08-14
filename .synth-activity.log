@@ -1073,3 +1073,4 @@
 2025-08-07 fix: guard null reference
 2025-08-08 refactor: simplify module wiring
 2025-08-12 fix: handle empty input
+2025-08-13 refactor: extract shared utility
