@@ -1077,3 +1077,4 @@
 2025-08-15 chore: tidy project layout
 2025-08-16 style: format sources
 2025-08-17 build: adjust tooling scripts
+2025-08-18 fix: patch edge case in config
