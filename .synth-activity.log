@@ -1078,3 +1078,4 @@
 2025-08-16 style: format sources
 2025-08-17 build: adjust tooling scripts
 2025-08-18 fix: patch edge case in config
+2025-08-19 refactor: simplify module wiring
