@@ -1080,3 +1080,4 @@
 2025-08-18 fix: patch edge case in config
 2025-08-19 refactor: simplify module wiring
 2025-08-23 docs: clarify setup steps
+2025-08-23 docs: note deployment caveat
