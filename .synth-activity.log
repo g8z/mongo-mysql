@@ -1082,3 +1082,4 @@
 2025-08-23 docs: clarify setup steps
 2025-08-23 docs: note deployment caveat
 2025-08-24 docs: note deployment caveat
+2025-08-25 test: add coverage for helper
