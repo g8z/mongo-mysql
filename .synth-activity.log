@@ -1091,3 +1091,4 @@
 2025-08-31 chore: housekeeping
 2025-09-01 test: add coverage for helper
 2025-09-10 build: adjust tooling scripts
+2025-09-13 fix: guard null reference
