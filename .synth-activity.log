@@ -1094,3 +1094,4 @@
 2025-09-13 fix: guard null reference
 2025-09-14 chore: tidy project layout
 2025-09-15 refactor: extract shared utility
+2025-09-16 test: add coverage for helper
