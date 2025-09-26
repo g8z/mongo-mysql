@@ -1100,3 +1100,4 @@
 2025-09-19 refactor: simplify module wiring
 2025-09-21 docs: clarify setup steps
 2025-09-25 docs: update README notes
+2025-09-25 refactor: extract shared utility
