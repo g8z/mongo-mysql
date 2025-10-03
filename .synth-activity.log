@@ -1106,3 +1106,4 @@
 2025-09-28 test: add coverage for helper
 2025-09-30 chore: housekeeping
 2025-10-02 chore: tidy project layout
+2025-10-03 fix: patch edge case in config
