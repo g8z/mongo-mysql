@@ -1108,3 +1108,4 @@
 2025-10-02 chore: tidy project layout
 2025-10-03 fix: patch edge case in config
 2025-10-10 style: format sources
+2025-10-15 refactor: extract shared utility
