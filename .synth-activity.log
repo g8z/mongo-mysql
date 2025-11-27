@@ -1118,3 +1118,4 @@
 2025-11-16 chore: bump internal marker
 2025-11-20 docs: note deployment caveat
 2025-11-25 build: adjust tooling scripts
+2025-11-27 refactor: extract shared utility
