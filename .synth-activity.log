@@ -1123,3 +1123,4 @@
 2025-12-02 refactor: extract shared utility
 2025-12-03 chore: bump internal marker
 2025-12-04 chore: sync local changes
+2025-12-08 fix: patch edge case in config
