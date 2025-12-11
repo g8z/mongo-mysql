@@ -1125,3 +1125,4 @@
 2025-12-04 chore: sync local changes
 2025-12-08 fix: patch edge case in config
 2025-12-08 refactor: simplify module wiring
+2025-12-10 fix: handle empty input
