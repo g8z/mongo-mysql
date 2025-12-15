@@ -1129,3 +1129,4 @@
 2025-12-12 chore: tidy project layout
 2025-12-13 test: add coverage for helper
 2025-12-15 fix: guard null reference
+2025-12-15 chore: sync local changes
