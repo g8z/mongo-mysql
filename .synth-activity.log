@@ -1149,3 +1149,4 @@
 2026-01-20 fix: patch edge case in config
 2026-01-26 fix: patch edge case in config
 2026-01-26 fix: patch edge case in config
+2026-01-27 fix: handle empty input
