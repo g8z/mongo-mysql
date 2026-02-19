@@ -1155,3 +1155,4 @@
 2026-02-12 fix: handle empty input
 2026-02-16 docs: clarify setup steps
 2026-02-18 build: adjust tooling scripts
+2026-02-18 docs: note deployment caveat
