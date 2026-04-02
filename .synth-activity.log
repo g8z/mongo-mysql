@@ -1173,3 +1173,4 @@
 2026-04-01 test: add coverage for helper
 2026-04-01 test: add coverage for helper
 2026-04-02 build: adjust tooling scripts
+2026-04-02 fix: patch edge case in config
