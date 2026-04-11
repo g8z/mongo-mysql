@@ -1176,3 +1176,4 @@
 2026-04-02 fix: patch edge case in config
 2026-04-04 test: add coverage for helper
 2026-04-10 docs: clarify setup steps
+2026-04-11 chore: tidy project layout
