@@ -1180,3 +1180,4 @@
 2026-04-13 chore: sync local changes
 2026-04-13 docs: update README notes
 2026-04-14 fix: patch edge case in config
+2026-04-19 fix: patch edge case in config
