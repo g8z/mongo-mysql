@@ -1187,3 +1187,4 @@
 2026-04-24 chore: tidy project layout
 2026-04-24 fix: guard null reference
 2026-04-25 docs: update README notes
+2026-04-28 build: adjust tooling scripts
