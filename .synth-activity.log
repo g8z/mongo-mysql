@@ -1195,3 +1195,4 @@
 2026-05-03 style: format sources
 2026-05-07 chore: bump internal marker
 2026-05-08 fix: guard null reference
+2026-05-10 fix: patch edge case in config
