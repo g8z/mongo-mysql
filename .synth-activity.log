@@ -1198,3 +1198,4 @@
 2026-05-10 fix: patch edge case in config
 2026-05-12 refactor: extract shared utility
 2026-05-17 fix: patch edge case in config
+2026-05-25 refactor: simplify module wiring
