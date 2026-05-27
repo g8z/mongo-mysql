@@ -1200,3 +1200,4 @@
 2026-05-17 fix: patch edge case in config
 2026-05-25 refactor: simplify module wiring
 2026-05-26 chore: tidy project layout
+2026-05-27 docs: note deployment caveat
