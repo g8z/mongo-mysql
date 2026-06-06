@@ -1206,3 +1206,4 @@
 2026-06-04 docs: clarify setup steps
 2026-06-05 test: add coverage for helper
 2026-06-05 docs: note deployment caveat
+2026-06-06 test: add coverage for helper
