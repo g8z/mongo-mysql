@@ -1210,3 +1210,4 @@
 2026-06-09 docs: update README notes
 2026-06-10 chore: housekeeping
 2026-06-13 chore: bump internal marker
+2026-06-16 fix: patch edge case in config
