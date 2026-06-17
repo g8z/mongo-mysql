@@ -1211,3 +1211,4 @@
 2026-06-10 chore: housekeeping
 2026-06-13 chore: bump internal marker
 2026-06-16 fix: patch edge case in config
+2026-06-17 refactor: simplify module wiring
