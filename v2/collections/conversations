@@ -1,0 +1,6 @@
+CREATE TABLE conversations (
+  _id VARCHAR(24),
+  members JSON,
+  messages JSON,
+  __v INT
+);

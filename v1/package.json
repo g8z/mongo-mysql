@@ -1,0 +1,14 @@
+{
+  "name": "upwork_mongoosedb",
+  "version": "1.0.0",
+  "description": "convert mongoosedb schema to mysql",
+  "main": "index.ts",
+  "scripts": {
+    "dump": "node index.js"
+  },
+  "author": "Duc Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.0.4"
+  }
+}

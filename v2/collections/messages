@@ -1,0 +1,11 @@
+CREATE TABLE messages (
+  _id VARCHAR(24),
+  conversation JSON,
+  message VARCHAR(255),
+  type VARCHAR(255),
+  username VARCHAR(255),
+  authorId JSON,
+  timestamp INT,
+  read BOOLEAN,
+  __v INT
+);
