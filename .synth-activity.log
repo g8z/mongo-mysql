@@ -1216,3 +1216,4 @@
 2026-06-18 fix: patch edge case in config
 2026-06-19 fix: patch edge case in config
 2026-06-20 refactor: simplify module wiring
+2026-06-21 chore: bump internal marker
