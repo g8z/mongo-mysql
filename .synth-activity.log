@@ -1220,3 +1220,4 @@
 2026-06-22 fix: guard null reference
 2026-06-24 fix: handle empty input
 2026-06-24 chore: sync local changes
+2026-06-29 refactor: simplify module wiring
